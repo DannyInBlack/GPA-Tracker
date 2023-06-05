@@ -11,3 +11,13 @@ The UML Diagram
 
 Screenshots of program:
 
+<img src="./login.jpg" />
+<img src="./home.jpg" />
+<img src="./add subject.jpg" />
+<img src="./remove subject.jpg" />
+<img src="./graph.jpg" />
+<img src="./list.jpg" />
+<img src="./confirmation.jpg" />
+
+
+
